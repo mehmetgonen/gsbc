@@ -14,3 +14,7 @@ GSBC methods
 * single_kernel_classification_test.R => test procedure for support vector machine
 * group_lasso_multiple_kernel_classification_train.R => training procedure for group Lasso MKL
 * group_lasso_multiple_kernel_classification_test.R => test procedure for group Lasso MKL
+
+If you use any of the algorithms implemented in this repository, please cite the following paper:
+
+Arezou Rahimi, Mehmet Gönen. Discriminating early- and late-stage cancers using multiple kernel learning on gene sets. Bioinformatics, 34(13):i412–i421, 2018.
