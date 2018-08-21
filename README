@@ -17,4 +17,4 @@ GSBC methods
 
 If you use any of the algorithms implemented in this repository, please cite the following paper:
 
-Arezou Rahimi, Mehmet Gönen. Discriminating early- and late-stage cancers using multiple kernel learning on gene sets. Bioinformatics, 34(13):i412–i421, 2018.
+Arezou Rahimi and Mehmet Gonen. Discriminating early- and late-stage cancers using multiple kernel learning on gene sets. Bioinformatics, 34(13):i412–i421, 2018.
